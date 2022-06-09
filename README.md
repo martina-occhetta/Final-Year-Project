@@ -8,3 +8,5 @@ b. Feature selection ii - Multilayer perceptron classifier training and weight e
 c. Feature selection iii - Estimation of Kolmogorov complexity using the gzip algorithm //
 4. Autoencoder training and analysis - filtered data
 5. Visualisation of data projection onto parametrised latent layer + clustering: using DBSCAN. Analysis of clusters obtained.
+
+Also included are the local compaction plots for all window sizes (LCPs) and the Supplementary Figures SF1-SF3.
